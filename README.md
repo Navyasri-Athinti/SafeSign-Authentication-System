@@ -1,1 +1,1 @@
-# Safe-Sign-
+The project titled “Safe Sign Authentication Application” is a web-based secure login system designed to ensure safe and reliable user authentication. The main goal of this project is to provide a secure and user-friendly platform for users to register and log in with proper email and password validation, reducing risks such as weak passwords, unauthorized access, and data breaches.
